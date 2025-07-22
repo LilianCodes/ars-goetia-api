@@ -37,7 +37,7 @@ Local setup is as simple as:
 - git clone https://github.com/LilianCodes/ars-api
 - cd ars-api
 - pip install -r requirements.txt
-- uvicorn main:app
+- uvicorn main:app --reload
 - Open http://localhost:8000/docs to interact with the API.
 
 Or you could alternatively download from the Code dropdown, install requirements and start the API.
