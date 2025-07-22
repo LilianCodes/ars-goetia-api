@@ -1,0 +1,1815 @@
+{
+    "1": {
+        "id": 1,
+        "name": "Bael",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/bael.png",
+        "enn": "Ayer Secore On Ca Ba'al",
+        "rank": {
+            "rank-name": "King",
+            "color": "Yellow",
+            "incense": "Frankincense",
+            "metal": "Gold",
+            "celestial": "Sun"
+        },
+        "ruling-days": {
+            "month": "March",
+            "ending-month": "",
+            "starting-day": 21,
+            "ending-day": 29,
+            "sign": "Aries",
+            "degrees": "0 - 9",
+            "day-or-night": "Day"
+        },
+        "description": "The first Principal Spirit is a King ruling in the East, called Bael. He maketh thee to go Invisible. He ruleth over 66 Legions of Infernal Spirits. He appeareth in divers shapes, sometimes like a Cat, sometimes like a Toad, and sometimes like a Man, and sometimes all these forms at once. He speaketh hoarsely. This is his character which is used to be worn as a Lamen before him who calleth him forth, or else he will not do thee homage"
+    },
+    "2": {
+        "id": 2,
+        "name": "Agares",
+        "alt-names": {
+            "1": "Agreas"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/agares.png",
+        "enn": "Rean ganen ayar da Agares",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "March",
+            "ending-month": "April",
+            "starting-day": 30,
+            "ending-day": 8,
+            "sign": "Aries",
+            "degrees": "10 - 19",
+            "day-or-night": "Day"
+        },
+        "description": "The Second Spirit is a Duke called Agreas, or Agares. He is under the Power of the East, and cometh up in the form of an old fair Man, riding upon a Crocodile, carrying a Goshawk upon his fist, and yet mild in appearance. He maketh them to run that stand still, and bringeth back runaways. He teacheth all Languages or Tongues presently. He hath power also to destroy Dignities both Spiritual and Temporal, and causeth Earthquakes. He was of the Order of Virtues. He hath under his government 31 Legions of Spirits. And this is his Seal or Character which thou shalt wear as a Lamen before thee."
+    },
+    "3": {
+        "id": 3,
+        "name": "Vassago",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/vassago.png",
+        "enn": "Keyan vefa jedan tasa Vassago",
+        "rank": {
+            "rank-name": "Prince",
+            "color": "Blue",
+            "incense": "Cedar",
+            "metal": "Tin",
+            "celestial": "Jupiter"
+        },
+        "ruling-days": {
+            "month": "April",
+            "ending-month": "",
+            "starting-day": 9,
+            "ending-day": 19,
+            "sign": "Aries",
+            "degrees": "20 - 29",
+            "day-or-night": "Day"
+        },
+        "description": "The Third Spirit is a Mighty Prince, being of the same nature as Agares. He is called Vassago. This Spirit is of a Good Nature, and his office is to declare things Past and to Come, and to discover all things Hid or Lost. And he governeth 26 Legions of Spirits, and this is his Seal."
+    },
+    "4": {
+        "id": 4,
+        "name": "Gamigin",
+        "alt-names": {
+            "1": "Samigina"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/samigin.png",
+        "enn": "",
+        "rank": {
+            "rank-name": "Marquis",
+            "color": "Violet",
+            "incense": "Jasmine",
+            "metal": "Silver",
+            "celestial": "Moon"
+        },
+        "ruling-days": {
+            "month": "April",
+            "ending-month": "",
+            "starting-day": 20,
+            "ending-day": 29,
+            "sign": "Aries",
+            "degrees": "20 - 29",
+            "day-or-night": "Day"
+        },
+        "description": "The Fourth Spirit is Samigina, a Great Marquis. He appeareth in the form of a little Horse or Ass, and then into Human shape doth he change himself at the Request of the Master. He speaketh with a hoarse voice. He ruleth over 30 Legions of Inferiors. He teaches all Liberal Sciences, and giveth account of Dead Souls that died in sin. And his Seal is this, which is to be worn before the Magician when he is Invocator, etc."
+    },
+    "5": {
+        "id": 5,
+        "name": "Marbas",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/marbas.png",
+        "enn": "Renach tasa uberace biasa icar Marbas",
+        "rank": {
+            "rank-name": "President",
+            "color": "Orange",
+            "incense": "Storax",
+            "metal": "Mercury",
+            "celestial": "Mercury"
+        },
+        "ruling-days": {
+            "month": "April",
+            "ending-month": "May",
+            "starting-day": 0,
+            "ending-day": 9,
+            "sign": "Taurus",
+            "degrees": "10 - 19",
+            "day-or-night": "Day"
+        },
+        "description": "The Fifth Spirit is Marbas. He is a Great President, and appeareth at first in the form of a Great Lion, but afterwards, at the request of the Master, he putteth on Human Shape. He answereth truly of things Hidden or Secret. He causeth Diseases and cureth them. Again, he giveth great Wisdom and Knowledge in Mechanical Arts; and can change men into other shapes. He governeth 36 Legions of Spirits. And his Seal is this, which is to be worn as aforesaid."
+    },
+    "6": {
+        "id": 6,
+        "name": "Valefor",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/valefor.png",
+        "enn": "Keyman vefa tasa Valefor",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "May",
+            "ending-month": "",
+            "starting-day": 10,
+            "ending-day": 20,
+            "sign": "Taurus",
+            "degrees": "20 - 29",
+            "day-or-night": "Day"
+        },
+        "description": "The Sixth Spirit is Valefor. He is a mighty Duke, and appeareth in the shape of a Lion with an Ass’s head, bellowing. He is a good Familiar, but tempteth them he is a familiar of to steal. He governeth 10 Legions of Spirits. His Seal is this, which is to be worn, whether thou wilt have him for a Familiar, or not."
+    },
+    "7": {
+        "id": 7,
+        "name": "Amon",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/amon.png",
+        "enn": "Avage Secore Amon ninan",
+        "rank": {
+            "rank-name": "Marquis",
+            "color": "Violet",
+            "incense": "Jasmine",
+            "metal": "Silver",
+            "celestial": "Moon"
+        },
+        "ruling-days": {
+            "month": "May",
+            "ending-month": "",
+            "starting-day": 21,
+            "ending-day": 31,
+            "sign": "Gemini",
+            "degrees": "0 - 9",
+            "day-or-night": "Day"
+        },
+        "description": "The Seventh Spirit is Amon. He is a Marquis great in power, and most stern. He appeareth like a Wolf with a Serpent’s tail, vomiting out of his mouth flames of fire; but at the command of the Magician he putteth on the shape of a Man with Dog’s teeth beset in a head like a Raven; or else like a Man with a Raven’s head (simply). He telleth all things Past and to Come. He procureth feuds and reconcileth controversies between friends. He governeth 40 Legions of Spirits. His Seal is this which is to be worn as aforesaid, etc."
+    },
+    "8": {
+        "id": 8,
+        "name": "Barbatos",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/barbatos.png",
+        "enn": "Eveta fubin Barbatos",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "June",
+            "ending-month": "",
+            "starting-day": 1,
+            "ending-day": 10,
+            "sign": "Gemini",
+            "degrees": "10 - 19",
+            "day-or-night": "Day"
+        },
+        "description": "The Eighth Spirit is Barbatos. He is a Great Duke, and appeareth when the Sun is in Sagittary, with four noble Kings and their companies of great troops. He giveth understanding of the singing of Birds, and of the Voices of other creatures, such as the barking of Dogs. He breaketh the Hidden Treasures open that have been laid by the Enchantments of Magicians. He is of the ORder of Virtues, of which some part he retaineth still; and he knoweth all things Past, and to Come, and conciliateth Friends and those that be in Power. He ruleth over 30 Legions of Spirits. His Seal of Obedience is this, the which wear before thee as aforesaid."
+    },
+    "9": {
+        "id": 9,
+        "name": "Paimon",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/paimon.png",
+        "enn": "Linan tasa jedan Paimon",
+        "rank": {
+            "rank-name": "King",
+            "color": "Yellow",
+            "incense": "Frankincense",
+            "metal": "Gold",
+            "celestial": "Sun"
+        },
+        "ruling-days": {
+            "month": "June",
+            "ending-month": "",
+            "starting-day": 11,
+            "ending-day": 21,
+            "sign": "Gemini",
+            "degrees": "20 - 29",
+            "day-or-night": "Day"
+        },
+        "description": "The Ninth Spirt in this Order is Paimon, a Great King, and very obedient unto LUCIFER. He appeareth in the form of a Man sitting upon a Dromedary with a Crown most glorious upon his head. There goeth before him also an Host of Spirits, like Men with Trumpets and well sounding Cymbals, and all other sorts of Musical Instruments. He hath a great Voice, and roareth at his first coming, and his speech is such that the Magician cannot well understand it unless he can compel him. This Spirit can teach all Arts and Science, and other secret things. He can discover unto thee what the Earth is, and what holdeth it up in the Waters; and what Mind is, and where it is; or any other thing thou mayest desire to know. He giveth Dignity, and confirmeth the same. He bindeth or maketh any man subject to the Magician if he so desire it. He giveth good Familiars, and such as can teach all Arts. He is to be observed towards the West. He is of the Order of Dominations. He hath under him 200 Legions of Spirits, and part of them are of the Order of Angels, and the other part of Potentates. Now if thou callest this Spirit Paimon alone, thou must make him some offering; and there will attend him two Kings called LABAL and ABALIM, and also other Spirits who be of the Order of Potentates in his Host, and 25 Legions. And those Spirits which be subject unto them are not always with them unless the Magician do compel them. His Character is this which must be worn as a Lamen before thee, etc."
+    },
+    "10": {
+        "id": 10,
+        "name": "Buer",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/bune.png",
+        "enn": "Erato on ca Buer anon",
+        "rank": {
+            "rank-name": "President",
+            "color": "Orange",
+            "incense": "Storax",
+            "metal": "Mercury",
+            "celestial": "Mercury"
+        },
+        "ruling-days": {
+            "month": "December",
+            "ending-month": "",
+            "starting-day": 3,
+            "ending-day": 11,
+            "sign": "Sagittarius",
+            "degrees": "10 - 19",
+            "day-or-night": "Day"
+        },
+        "description": "The Tenth Spirit is Buer, a Great President. He appeareth in Sagittary, and that is his shape when the Sun is there. He teaches Philosophy, both Moral and Natural, and the Logic Art, and also the Virtues of all Herbs and Plants. He healeth all distempers in man, and giveth good Familiars. He governeth 50 Legions of Spirits, and his Character of obedience is this, which thou must wear when thou callest him forth unto appearance."
+    },
+    "11": {
+        "id": 11,
+        "name": "Gusion",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/gusion.png",
+        "enn": "Secore vesa anet Gusion",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "July",
+            "ending-month": "",
+            "starting-day": 2,
+            "ending-day": 12,
+            "sign": "Cancer",
+            "degrees": "10 - 19",
+            "day-or-night": "Day"
+        },
+        "description": "The Eleventh Spirit in order is a great and strong Duke, called Gusion. He appeareth like a Xenopilus. He telleth all things, Past, Present and to Come, and showeth the meaning and resolution of all questions thou mayest ask. He conciliateth and reconcileth friendships, and giveth Honour and Dignity unto any. He ruleth over 40 Legions of Spirits. His Seal is this, the which wear as aforesaid."
+    },
+    "12": {
+        "id": 12,
+        "name": "Sitri",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/sitri.png",
+        "enn": "Lirach Alora vefa Sitri",
+        "rank": {
+            "rank-name": "Prince",
+            "color": "Blue",
+            "incense": "Cedar",
+            "metal": "Tin",
+            "celestial": "Jupiter"
+        },
+        "ruling-days": {
+            "month": "July",
+            "ending-month": "",
+            "starting-day": 2,
+            "ending-day": 12,
+            "sign": "Cancer",
+            "degrees": "10 - 19",
+            "day-or-night": "Day"
+        },
+        "description": "The Twelfth Spirit is Sitri. He is a Great Prince, and appeareth at first with a Leopard's head and the Wings of a Gryphon, but after the command of the Master of the Exorcism he putteth on Human shape, and that very beautiful. He enflameth men with Women's love, and Women with Men's love; and causeth them also to show themselves naked if it be desired. He governeth 60 Legions of Spirits. His Seal is this, to be worn as a Lamen before thee, etc."
+    },
+    "13": {
+        "id": 13,
+        "name": "Beleth",
+        "alt-names": {
+            "1": "Bileth",
+            "2": "Bilet"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/beleth.png",
+        "enn": "Lirach tasa vefa wehlc Beleth",
+        "rank": {
+            "rank-name": "King",
+            "color": "Yellow",
+            "incense": "Frankincense",
+            "metal": "Gold",
+            "celestial": "Sun"
+        },
+        "ruling-days": {
+            "month": "July",
+            "ending-month": "",
+            "starting-day": 13,
+            "ending-day": 22,
+            "sign": "Cancer",
+            "degrees": "10 - 19",
+            "day-or-night": "Day"
+        },
+        "description": "The Thirteenth Spirit is called Beleth (or Bileth, or Bilet). He is a mighty King and terrible. He rideth on a pale horse with trumpets and other kinds of musical instruments playing before him. He is very furious at his first appearance, that is, while the Exorcist layeth his courage; for to do this he must hold a Hazel Wand in his hand, striking it out towards the South and East Quarters, make a triangle, D, without the Circle, and then command him into it by the Bonds and Charges of Spirits as hereafter followeth. And if he doth not enter into the triangle, D, at your threats, rehearse the Bonds and Charms before him, and then he will yield Obedience and come into it. and do what he is commanded by the Exorcist. Yet he must receive him courtesously because he is a Great King, and do homage unto him, as the Kings and Princes do that attend upon him. And thou must have always a Silver Ring in the middle finger or the left hand held against thy face, as they do yet before AMAYMON. This Great King Beleth causeth all the love that may be, both of Men and of Women, until the Master Exorcist hath had his desire To protect him from the flaming breath of the enraged Spirit; the design is given at the end of the instructions for the Magical Circle, etc., later on in the Goetia. 17 Women, until the Master Exorcist hath had his desire fulfilled. He is of the Order of Powers, and he governeth 85 Legions of Spirits. His Noble Seal is this, which is to be worn before thee at working."
+    },
+    "14": {
+        "id": 14,
+        "name": "Leraje",
+        "alt-names": {
+            "1": "Leraikha"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/leraje.png",
+        "enn": " Caymen vefa Leraje",
+        "rank": {
+            "rank-name": "Marquis",
+            "color": "Violet",
+            "incense": "Jasmine",
+            "metal": "Silver",
+            "celestial": "Moon"
+        },
+        "ruling-days": {
+            "month": "August",
+            "ending-month": "",
+            "starting-day": 2,
+            "ending-day": 12,
+            "sign": "Leo",
+            "degrees": "10 - 19",
+            "day-or-night": "Day"
+        },
+        "description": "The Fourteenth Spirit is called Leraje (or Leraie). He is a Marquis Great in Power, showing himself in the likeness of an Archer clad in Green, and carrying a Bow and Quiver. He causeth all great Battles and Contests; and maketh wounds to putrefy that are made with Arrows by Archers. This belongeth unto Sagittar. He governeth 30 Legions of Spirits, and this is his Seal, etc."
+    },
+    "15": {
+        "id": 15,
+        "name": "Eligos",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/eligos.png",
+        "enn": "Jedan on ca Eligos inan",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "August",
+            "ending-month": "",
+            "starting-day": 13,
+            "ending-day": 22,
+            "sign": "Leo",
+            "degrees": "20 - 29",
+            "day-or-night": "Day"
+        },
+        "description": "The Fifteenth Spirit in Order is Eligos, a Great Duke, and appeareth in the form of a goodly Knight, carrying a Lance, an Ensign, and a Serpent. He discovereth hidden things, and knoweth things to come; and of Wars, and how the Soldiers will or shall meet. He causeth the Love of Lords and Great Persons. He governeth 60 Legions of Spirits. His Seal is this, etc."
+    },
+    "16": {
+        "id": 16,
+        "name": "Zepar",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/zepar.png",
+        "enn": "Lyan Ramec catya Zepar",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "August",
+            "ending-month": "September",
+            "starting-day": 23,
+            "ending-day": 1,
+            "sign": "Virgo",
+            "degrees": "0 - 9",
+            "day-or-night": "Day"
+        },
+        "description": "The Sixteenth Spirit is Zepar. He is a Great Duke, and appeareth in Red Apparel and Armour, like a Soldier. His office is to cause Women to love Men, and to bring them together in love. He also maketh them barren. He governeth 26 Legions of Inferior Spirits, and his Seal is this, which he obeyeth when he seeth it."
+    },
+    "17": {
+        "id": 17,
+        "name": "Botis",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/botis.png",
+        "enn": "Jedan hoesta noc ra Botis",
+        "rank": {
+            "rank-name": "President",
+            "color": "Orange",
+            "incense": "Storax",
+            "metal": "Mercury",
+            "celestial": "Mercury"
+        },
+        "ruling-days": {
+            "month": "September",
+            "ending-month": "",
+            "starting-day": 2,
+            "ending-day": 12,
+            "sign": "Virgo",
+            "degrees": "10 - 19",
+            "day-or-night": "Day"
+        },
+        "description": "The Seventeenth Spirit is Botis, a Great President, and an Earl. He appeareth at the first show in the form of an ugly Viper, then at the command of the Magician he putteth on Human shape with Great Teeth, and two Horns, carrying a bright and sharp Sword in his hand. He telleth all things Past, and to Come, and reconcileth Friends and Foes. He ruleth over 60 Legions of Spirits, and this is his Seal, etc."
+    },
+    "18": {
+        "id": 18,
+        "name": "Bathin",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/bathin.png",
+        "enn": "Dyen Pretore on ca Bathin",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "September",
+            "ending-month": "",
+            "starting-day": 13,
+            "ending-day": 22,
+            "sign": "Virgo",
+            "degrees": "20 - 29",
+            "day-or-night": "Day"
+        },
+        "description": "The Eighteenth Spirit is Bathin. He is a Mighty and Strong Duke, and appeareth like a Strong Man with the tail of a Serpent, sitting upon a pale-coloured [Horse?]. He knoweth the Virtues of Herbs and Precious Stones, and can transport men suddenly from one country to another. He ruleth over 30 Legions of Spirits. His Seal is this which is to be worn as aforesaid."
+    },
+    "19": {
+        "id": 19,
+        "name": "Sallos",
+        "alt-names": {
+            "1": "Saleos"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/sallos.png",
+        "enn": "Serena Alora Sallos Aken",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "September",
+            "ending-month": "",
+            "starting-day": 13,
+            "ending-day": 22,
+            "sign": "Virgo",
+            "degrees": "20 - 29",
+            "day-or-night": "Day"
+        },
+        "description": "The Nineteenth Spirit is Sallos (or Saleos). He is a Great and Mighty Duke, and appeareth in the form of a gallant Soldier riding on a Crocodile, with a Ducal Crown on his head, but peaceably. He causeth the Love of Women to Men, and of Men to Women; and governeth 30 Legions of Spirits. His seal is this, etc."
+    },
+    "20": {
+        "id": 20,
+        "name": "Purson",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/purson.png",
+        "enn": "Ana jecore on ca Purson",
+        "rank": {
+            "rank-name": "King",
+            "color": "Yellow",
+            "incense": "Frankincense",
+            "metal": "Gold",
+            "celestial": "Sun"
+        },
+        "ruling-days": {
+            "month": "October",
+            "ending-month": "",
+            "starting-day": 3,
+            "ending-day": 12,
+            "sign": "Libra",
+            "degrees": "10 - 19",
+            "day-or-night": "Day"
+        },
+        "description": "The Twentieth Spirit is Purson, a Great King. His appearing is comely, like a Man with a Lion's face, carrying a cruel Viper in his hand, and riding upon a Bear. Going before him are many Trumpets sounding. He knoweth all things hidden, and can discover Treasure, and tell all things Past, Present, and to Come. He can take a Body either Human or Aërial, and answereth truly of all Earthly things both Secret and Divine, and of the Creation of the World. He bringeth forth good Familiars, and under his Government there be 22 Legions of Spirits, partly of the Order of Virtues and partly of the Order of Thrones. His Mark, Seal, or Character is this, unto which he oweth obedience, and which thou shalt wear in time of action, etc."
+    },
+    "21": {
+        "id": 21,
+        "name": "Marax",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/marax.png",
+        "enn": "Kaymen Vefa Marax",
+        "rank": {
+            "rank-name": "President",
+            "color": "Orange",
+            "incense": "Storax",
+            "metal": "Mercury",
+            "celestial": "Mercury"
+        },
+        "ruling-days": {
+            "month": "October",
+            "ending-month": "",
+            "starting-day": 13,
+            "ending-day": 22,
+            "sign": "Libra",
+            "degrees": "20 - 29",
+            "day-or-night": "Day"
+        },
+        "description": "The Twenty-first Spirit is Marax. He is a Great Earl and President. He appeareth like a great Bull with a Man's face. His office is to make Men very knowing in Astronomy, and all other Liberal Sciences; also he can give good Familiars, and wise, knowing the virtues of Herbs and Stones which be precious. He governeth 30 Legions of Spirits, and his Seal is this, which must be made and worn as aforesaid, etc."
+    },
+    "22": {
+        "id": 22,
+        "name": "Ipos",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/ipos.png",
+        "enn": "Desa an Ipos Ayer",
+        "rank": {
+            "rank-name": "Earl",
+            "color": "Red",
+            "incense": "Dragons Blood",
+            "metal": "Silver or Copper",
+            "celestial": "Mars"
+        },
+        "ruling-days": {
+            "month": "October",
+            "ending-month": "November",
+            "starting-day": 23,
+            "ending-day": 1,
+            "sign": "Scorpio",
+            "degrees": "0 - 9",
+            "day-or-night": "Day"
+        },
+        "description": "The Twenty-second Spirit is Ipos. He is an Earl, and a Mighty Prince, and appeareth in the form of an Angel with a Lion's Head, and a Goose's Foot, and Hare's Tail. He knoweth all things Past, Present and to Come. He maketh men witty and bold. He governeth 36 Legions of Spirits. His Seal is this, which thou shalt wear, etc."
+    },
+    "23": {
+        "id": 23,
+        "name": "Aim",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/aim.png",
+        "enn": "Ayer avage secore Aim",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "November",
+            "ending-month": "",
+            "starting-day": 2,
+            "ending-day": 12,
+            "sign": "Scorpio",
+            "degrees": "10 - 19",
+            "day-or-night": "Day"
+        },
+        "description": "The Twenty-third Spirit is Aim. He is a Great Strong Duke. He appeareth in the form of a very handsome Man in body, but with three Heads; the first, like a Serpent, the second like a Man having two Stars on his Forehead, the third like a Calf. He rideth on a Viper, carrying a Firebrand in his Hand, wherewith he setteth cities, castles, and great Places, on fire. He maketh thee witty in all manner of ways, and giveth true answers unto private matters. He governeth 26 Legions of Inferior Spirits; and his Seal is this, which wear thou as aforesaid, etc."
+    },
+    "24": {
+        "id": 24,
+        "name": "Naberius",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/naberius.png",
+        "enn": "Eyan tasa volocur Naberius",
+        "rank": {
+            "rank-name": "Marquis",
+            "color": "Violet",
+            "incense": "Jasmine",
+            "metal": "Silver",
+            "celestial": "Moon"
+        },
+        "ruling-days": {
+            "month": "November",
+            "ending-month": "",
+            "starting-day": 13,
+            "ending-day": 22,
+            "sign": "Scorpio",
+            "degrees": "20 - 29",
+            "day-or-night": "Day"
+        },
+        "description": "The Twenty-fourth Spirit is Naberius. He is a most valiant Marquis, and showeth in the form of a Black Crane fluttering about the Circle, and when he speaketh it is with a hoarse voice. He maketh men cunning in all Arts and Sciences, but especially in the Art of Rhetoric. He restoreth lost Dignities and Honours. He governeth 19 Legions of Spirits. His Seal is this, which is to be worn, etc."
+    },
+    "25": {
+        "id": 25,
+        "name": "Glasya-Labolas",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/glasya.png",
+        "enn": "Elan tepar secore on ca Glasya-Lobolas",
+        "rank": {
+            "rank-name": "President",
+            "color": "Orange",
+            "incense": "Storax",
+            "metal": "Mercury",
+            "celestial": "Mercury"
+        },
+        "ruling-days": {
+            "month": "November",
+            "ending-month": "December",
+            "starting-day": 23,
+            "ending-day": 2,
+            "sign": "Sagittarius",
+            "degrees": "0 - 9",
+            "day-or-night": "Day"
+        },
+        "description": "The Twenty-fifth Spirit is Glasya-Labolas. He is a Mighty President and Earl, and showeth himself in the form of a Dog with Wings like a Gryphon. He teacheth all Arts and Sciences in an instant, and is an Author of Bloodshed and Manslaughter. He teacheth all things Past, and to Come. If desired he causeth the love both of Friends and of Foes. He can make a Man to go Invisible. And he hath under his command 36 Legions of Spirits. His Seal is this, to be, etc."
+    },
+    "26": {
+        "id": 26,
+        "name": "Bune",
+        "alt-names": {
+            "1": "Bime",
+            "2": "Bim"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/bune.png",
+        "enn": "Wehlc melan avage Bune Tasa",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "December",
+            "ending-month": "",
+            "starting-day": 12,
+            "ending-day": 21,
+            "sign": "Sagittarius",
+            "degrees": "10 - 19",
+            "day-or-night": "Day"
+        },
+        "description": "The Twenty-sixth Spirit is Buné (or Bim). He is a Strong, Great and Mighty Duke. He appeareth in the form of a Dragon with three heads, one like a Dog, one like a Gryphon, and one like a Man. He speaketh with a high and comely Voice. He changeth the Place of the Dead, and causeth the Spirits which be under him to gather together upon your Sepulchres. He giveth Riches unto a Man, and maketh him Wise and Eloquent. He giveth true Answers unto Demands. And he governeth 30 Legions of Spirits. His seal is this, unto the which he oweth obedience. He hath another seal (which is the first of these, but the last is the best)."
+    },
+    "27": {
+        "id": 27,
+        "name": "Ronove",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/ronove.png",
+        "enn": "Kaymen vefa Ronove",
+        "rank": {
+            "rank-name": "Marquis",
+            "color": "Violet",
+            "incense": "Jasmine",
+            "metal": "Silver",
+            "celestial": "Moon"
+        },
+        "ruling-days": {
+            "month": "December",
+            "ending-month": "",
+            "starting-day": 12,
+            "ending-day": 21,
+            "sign": "Sagittarius",
+            "degrees": "20 - 29",
+            "day-or-night": "Day"
+        },
+        "description": "The Twenty-seventh Spirit is Ronové. He appeareth in the form of a Monster. He teacheth the Art of Rhetoric very well, and giveth Good Servants, Knowledge of Tongues, and Favours with Friends or Foes. He is a Marquis and Great Earl; and there be under his command 19 Legions of Spirits. His Seal is this, etc."
+    },
+    "28": {
+        "id": 28,
+        "name": "Berith",
+        "alt-names": {
+            "1": "Beal",
+            "2": "Beale",
+            "3": "Bofry",
+            "4": "Bolfry"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/berith.png",
+        "enn": "Hoath redar ganabal Berith",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "December",
+            "ending-month": "",
+            "starting-day": 22,
+            "ending-day": 31,
+            "sign": "Capricorn",
+            "degrees": "0 - 9",
+            "day-or-night": "Day"
+        },
+        "description": "The Twenty-eighth Spirit in Order, as Solomon bound them, is named Berith. He is a Mighty, Great and Terrible Duke. He hath two other Names given unto him by men of later times, viz.: BEALE or BEAL and BOFRY or BOLFRY. He appeareth in the form of a Soldier with Red Clothing, riding upon a Red Horse, and having a Crown of Gold upon his head. He giveth true answers, Past, Present and to Come. Thou must make use of a Ring in calling him forth, as is before spoken of regarding Beleth. He can turn all metals into Gold. He can give Dignities and confirm them unto Man. He speaketh with a very clear and subtle Voice. He is a Great Liar and not to be trusted unto. He governeth 26 Legions of Spirits. His Seal is this, etc."
+    },
+    "29": {
+        "id": 29,
+        "name": "Astaroth",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/astaroth.png",
+        "enn": "Tasa Alora Foren Astaroth",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "January",
+            "ending-month": "",
+            "starting-day": 1,
+            "ending-day": 10,
+            "sign": "Capricorn",
+            "degrees": "10 - 19",
+            "day-or-night": "Day"
+        },
+        "description": "The Twenty-ninth Spirit is Astaroth. He is a Mighty, Strong Duke, and appeareth in the form of an hurtful Angel riding on an Infernal Beast like a Dragon, and carrying in his right hand a Viper. Thou must in no wise let him approach too near unto thee, lest he do thee damage by his Noisome Breath. Wherefore the Magician must hold the Magical Ring near his face, and that will defend him. He giv-eth true answers of things Past, Present, and to Come, and can discover all Secrets. He will declare wittingly how the Spirits fell, if desired, and the reason of his own fall. He can make men wonderfully knowing in all Liberal Sciences. He ruleth 40 Legions of Spirits. His Seal is this, which wear thou as a Lamen before thee, or else he will not appear nor yet obey thee, etc."
+    },
+    "30": {
+        "id": 30,
+        "name": "Forneus",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/forneus.png",
+        "enn": "Senan okat ena Forneus ayer",
+        "rank": {
+            "rank-name": "Marquis",
+            "color": "Violet",
+            "incense": "Jasmine",
+            "metal": "Silver",
+            "celestial": "Moon"
+        },
+        "ruling-days": {
+            "month": "January",
+            "ending-month": "",
+            "starting-day": 11,
+            "ending-day": 19,
+            "sign": "Capricorn",
+            "degrees": "20 - 29",
+            "day-or-night": "Day"
+        },
+        "description": "The Thirtieth Spirit is Forneus. He is a Mighty and Great Marquis, and appeareth in the Form of a Great Sea-Monster. He teacheth, and maketh men wonderfully knowing in the Art of Rhetoric. He causeth men to have a Good Name, and to have the knowledge and understanding of Tongues. He maketh one to be beloved of his Foes as well as of his Friends. He governeth 29 Legions of Spirits, partly of the Order of Thrones, and party of that of Angels. His Seal is this, which wear thou, etc."
+    },
+    "31": {
+        "id": 31,
+        "name": "Foras",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/foras.png",
+        "enn": "Kaymen vefa Foras",
+        "rank": {
+            "rank-name": "President",
+            "color": "Orange",
+            "incense": "Storax",
+            "metal": "Mercury",
+            "celestial": "Mercury"
+        },
+        "ruling-days": {
+            "month": "January",
+            "ending-month": "",
+            "starting-day": 20,
+            "ending-day": 29,
+            "sign": "Aquarius",
+            "degrees": "0 - 9",
+            "day-or-night": "Day"
+        },
+        "description": "The Thirty-first Spirit is Foras. He is a Mighty President, and appeareth in the Form of a Strong Man in Human Shape. He teacheth the Arts of Logic and Ethics in all there parts. If desired he maketh men invisible, and to live long, and to be eloquent. He can discover Treasures and recover things Lost. He ruleth over 29 Legions of Spirits, and his Seal is this, which wear thou, etc."
+    },
+    "32": {
+        "id": 32,
+        "name": "Asmoday",
+        "alt-names": {
+            "1": "Asmodeus",
+            "2": "Asmodai"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/asmodeus.png",
+        "enn": "Ayer avage Aloren Asmoday aken",
+        "rank": {
+            "rank-name": "King",
+            "color": "Yellow",
+            "incense": "Frankincense",
+            "metal": "Gold",
+            "celestial": "Sun"
+        },
+        "ruling-days": {
+            "month": "January",
+            "ending-month": "February",
+            "starting-day": 30,
+            "ending-day": 8,
+            "sign": "Aquarius",
+            "degrees": "10 - 19",
+            "day-or-night": "Day"
+        },
+        "description": "The Thirty-second Spirit is Asmoday, or Asmodai. He is a Great King, Strong, and Powerful. He appeareth with Three Heads, whereof the first is like a Bull, the second like a Man, and the third like a Ram; he hath also the tail of a Serpent, and from his mouth issue Flames of Fire. His Feet are webbed like those of a Goose. He sitteth upon an Infernal Dragon, and beareth in his hand a Lance with a Banner. He is first and choicest under the power of AMAYMON, he goeth before all other. When the Exorcist hath a mind to call him, let it be abroad, and let him stand on his feet all the time of action, with his Cap or Head-dress off; for if it be on, AMAYMON will deceive him and cause all his actions to be bewrayed. But as soon as the Exorcist seeth Asmoday in the shape aforesaid, he shall call him by his Name, saying: “Art thou Asmoday?” and he will not deny it, and by-and-by he will bow down unto the ground. He given the Ring of Virtues; he teacheth the Arts of Arithmetic, Astronomy, Geometry, and all handicrafts absolutely. He giveth true and full answers unto thy demands. He maketh one Invincible. He showeth the place where Treasures lie, and guardeth it. He, amongst the Legions of AMAYMON, governeth 72 Legions of Spirits Inferior. His Seal is this which thou must wear as a Lamen upon thy breast, etc."
+    },
+    "33": {
+        "id": 33,
+        "name": "Gaap",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/gaap.png",
+        "enn": "Deyan Anay Tasa Gaap",
+        "rank": {
+            "rank-name": "President",
+            "color": "Orange",
+            "incense": "Storax",
+            "metal": "Mercury",
+            "celestial": "Mercury"
+        },
+        "ruling-days": {
+            "month": "February",
+            "ending-month": "",
+            "starting-day": 9,
+            "ending-day": 18,
+            "sign": "Aquarius",
+            "degrees": "20 - 29",
+            "day-or-night": "Day"
+        },
+        "description": "The Thirty-third Spirit is Gäap. He is a Great President and a Mighty Prince. He appeareth when the Sun is in some of the Southern Signs, in a Human Shape, going before Four Great and Mighty Kings, as if he were a Guide to conduct them along on their way. His Office is to make men Insensible or Ignorant; as also in Philosophy to make them Knowing, and in all the Liberal Sciences. He can cause Love or Hatred, also he can teach thee to consecrate those things that belong to the Dominion of AMAYMON his King. He can deliver Familiars out of the Custody of other Magicians, and answereth truly and perfectly of things Past, Present, and to Come. He can carry and re-carry men very speedily from one Kingdom to another, at the Will and Pleasure of the Exorcist. He ruleth over 66 Legions of Spirits, and he was of the Order of Potentates. His Seal is this to be made and to be worn as aforesaid, etc."
+    },
+    "34": {
+        "id": 34,
+        "name": "Furfur",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/furfur.png",
+        "enn": "Ganen menach tasa Furfur",
+        "rank": {
+            "rank-name": "Earl",
+            "color": "Red",
+            "incense": "Dragons Blood",
+            "metal": "Silver or Copper",
+            "celestial": "Mars"
+        },
+        "ruling-days": {
+            "month": "February",
+            "ending-month": "",
+            "starting-day": 19,
+            "ending-day": 29,
+            "sign": "Pisces",
+            "degrees": "10 - 19",
+            "day-or-night": "Day"
+        },
+        "description": "The Thirty-fourth Spirit is Furfur. He is a Great and Mighty Earl, appearing in the Form of an Hart with a Fiery Tail. He never speaketh the truth unless he be compelled, or brought up within a triangle D. Being therein, he will take upon himself the Form of an Angel. Being bidden, he speaketh with a hoarse voice. Also he will wittingly urge Love between Man and Woman. He can raise Lightnings and Thunders, Blasts and Great Tempestuous Storms. And he giveth True Answers both of Things Secret and Divine, if commanded. He ruleth over 26 Legions of Spirits. And his Seal is this, etc."
+    },
+    "35": {
+        "id": 35,
+        "name": "Marchosias",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/marchosias.png",
+        "enn": "Es na ayer Marchosias Secore",
+        "rank": {
+            "rank-name": "Marquis",
+            "color": "Violet",
+            "incense": "Jasmine",
+            "metal": "Silver",
+            "celestial": "Moon"
+        },
+        "ruling-days": {
+            "month": "March",
+            "ending-month": "",
+            "starting-day": 1,
+            "ending-day": 10,
+            "sign": "Pisces",
+            "degrees": "10 - 19",
+            "day-or-night": "Day"
+        },
+        "description": "The Thirty-fifth Spirit is Marchosias. He is a Great and Mighty Marquis, appearing at first in the form of a Wolf1 having Gryphon's Wings, and a Serpent's Tail, and Vomiting Fire out of his mouth. But after a time, at the command of the Exorcist he putteth on the Shape of a Man. And he is a strong fighter. He was of the Order of Dominations. He governeth 30 Legions of Spirits. He told his Chief, who was Solomon, that after 1,200 years he had hopes to return unto the Seventh Throne. And his Seal is this, to be made and worn as a Lamen, etc."
+    },
+    "36": {
+        "id": 36,
+        "name": "Stolas",
+        "alt-names": {
+            "1": "Stolos"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/stolas.png",
+        "enn": "Stolas Ramec viasa on ca",
+        "rank": {
+            "rank-name": "Prince",
+            "color": "Blue",
+            "incense": "Cedar",
+            "metal": "Tin",
+            "celestial": "Jupiter"
+        },
+        "ruling-days": {
+            "month": "March",
+            "ending-month": "",
+            "starting-day": 11,
+            "ending-day": 20,
+            "sign": "Pisces",
+            "degrees": "20 - 29",
+            "day-or-night": "Day"
+        },
+        "description": "The Thirty-sixth Spirit is Stolas, or Stolas. He is a Great and Powerful Prince, appearing in the Shape of a Mighty Raven at first before the Exorcist; but after he taketh the image of a Man. He teacheth the Art of Astronomy, and the Virtues of Herbs and Precious Stones. He governeth 26 Legions of Spirits; and his Seal is this, which is, etc."
+    },
+    "37": {
+        "id": 37,
+        "name": "Phenex",
+        "alt-names": {
+            "1": "Pheynix"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/phenex.png",
+        "enn": "Ef enay Phenex ayer",
+        "rank": {
+            "rank-name": "Marquis",
+            "color": "Violet",
+            "incense": "Jasmine",
+            "metal": "Silver",
+            "celestial": "Moon"
+        },
+        "ruling-days": {
+            "month": "March",
+            "ending-month": "",
+            "starting-day": 21,
+            "ending-day": 29,
+            "sign": "Aries",
+            "degrees": "0 - 9",
+            "day-or-night": "Night"
+        },
+        "description": "The Thirty-seventh Spirit is Phenex (or Pheynix). He is a Great Marquis, and appeareth like the Bird Phœnix, having the Voice of a Child. He singeth many sweet notes before the Exorcist, which he must not regard, but by-and-by he must bid him put on Human Shape. Then he will speak marvellously of all wonderful Sciences if required. He is a Poet, good and excellent. And he will be willing to perform thy re-quests. He hath hopes also to return to the Seventh Throne after 1,200 years more, as he said unto Solomon. He governeth 20 Legions of Spirits. And his Seal is this, which wear thou, etc."
+    },
+    "38": {
+        "id": 38,
+        "name": "Halphus",
+        "alt-names": {
+            "1": "Malthus",
+            "2": "Halphas"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/halphas.png",
+        "enn": "Erato Halphas on ca secore",
+        "rank": {
+            "rank-name": "Earl",
+            "color": "Red",
+            "incense": "Dragons Blood",
+            "metal": "Silver or Copper",
+            "celestial": "Mars"
+        },
+        "ruling-days": {
+            "month": "March",
+            "ending-month": "April",
+            "starting-day": 30,
+            "ending-day": 8,
+            "sign": "Aries",
+            "degrees": "10 - 19",
+            "day-or-night": "Night"
+        },
+        "description": "The Thirty-eighth Spirit is Halphas, or Malthus (or Malthas). He is a Great Earl, and appeareth in the form of a StockDove. He speaketh with a hoarse Voice. His Office is to build up Towers, and to furnish them with Ammunition and Weapons, and to send Men-of-War2 to places appointed. He ruleth over 26 Legions of Spirits, and his Seal is this, etc."
+    },
+    "39": {
+        "id": 39,
+        "name": "Malphus",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/malphas.png",
+        "enn": "Lirach tasa Malphas ayer",
+        "rank": {
+            "rank-name": "President",
+            "color": "Orange",
+            "incense": "Storax",
+            "metal": "Mercury",
+            "celestial": "Mercury"
+        },
+        "ruling-days": {
+            "month": "April",
+            "ending-month": "",
+            "starting-day": 9,
+            "ending-day": 19,
+            "sign": "Aries",
+            "degrees": "20 - 29",
+            "day-or-night": "Night"
+        },
+        "description": "The Thirty-ninth Spirit is Malphas. He appeareth at first like a Crow, but after he will put on Human Shape at the request of the Exorcist, and speak with a hoarse Voice. He is a Mighty President and Powerful. He can build Houses and High Towers, and can bring to thy Knowledge Enemies' Desires and Thoughts, and that which they have done. He giveth good Familiars. If thou makest a Sacrifice unto him he will receive it kindly and willingly, but he will deceive him that doth it. He governeth 40 Legions of Spirits, and his Seal is this, etc."
+    },
+    "40": {
+        "id": 40,
+        "name": "Raum",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/raum.png",
+        "enn": "Furca na alle laris Raum",
+        "rank": {
+            "rank-name": "Earl",
+            "color": "Red",
+            "incense": "Dragons Blood",
+            "metal": "Silver or Copper",
+            "celestial": "Mars"
+        },
+        "ruling-days": {
+            "month": "Aoril",
+            "ending-month": "",
+            "starting-day": 20,
+            "ending-day": 29,
+            "sign": "Taurus",
+            "degrees": "0 - 9",
+            "day-or-night": "Night"
+        },
+        "description": "The Forthieth Spirit is Räum. He is a Great Earl; and appeareth at first in the form of a Crow, but after the Command of the Exorcist he putteth on Human Shape. His office is to steal Treasures out King's Houses, and to carry it whither he is commanded, and to destroy Cities and Dignities of Men, and to tell all things, Past, and what Is, and what Will Be; and to cause Love between Friends and Foes. He was of the Order of Thrones. He governeth 30 Legions of Spirits; and his Seal is this, which wear thou as aforesaid."
+    },
+    "41": {
+        "id": 41,
+        "name": "Focalor",
+        "alt-names": {
+            "1": "Forcalor",
+            "2": "Furcalor"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/focalor.png",
+        "enn": "En Jedan on ca Focalor",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "April",
+            "ending-month": "May",
+            "starting-day": 30,
+            "ending-day": 9,
+            "sign": "Taurus",
+            "degrees": "10 - 19",
+            "day-or-night": "Night"
+        },
+        "description": "The Forty-first Spirit is Focalor, or Forcalor, or Furcalor. He is a Mighty Duke and Strong. He appeareth in the Form of a Man with Gryphon's Wings. His office is to slay Men, and to drown them in the Waters, and to overthrow Ships of War, for he hath Power over both Winds and Seas; but he will not hurt any man or thing if he be commanded to the contrary by the Exorcist. He also hath hopes to return to the Seventh Throne after 1,000 years. He governeth 30 Legions of Spirits, and his Seal is this, etc."
+    },
+    "42": {
+        "id": 42,
+        "name": "Vepar",
+        "alt-names": {
+            "1": "Vephar"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/vepar.png",
+        "enn": "On ca Vepar Ag Na",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "May",
+            "ending-month": "",
+            "starting-day": 10,
+            "ending-day": 20,
+            "sign": "Taurus",
+            "degrees": "20 - 29",
+            "day-or-night": "Night"
+        },
+        "description": "The Forty-second Spirit is Vepar, or Vephar. He is a Duke Great and Strong, and appeareth like a Mermaid. His office is to govern the Waters, and to guide Ships laden with Arms, Armour, and Ammunition, etc., thereon. And at the request of the Exorcist he can cause the seas to be right stormy and to appear full of ships. Also he maketh men to die in Three Days by Putrefying Wounds or Sores, and causing Worms to breed in them. He governeth 29 Legions of Spirits, and his Seal is this, etc."
+    },
+    "43": {
+        "id": 43,
+        "name": "Sabnock",
+        "alt-names": {
+            "1": "Savnock"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/sabnock.png",
+        "enn": "Tasa Sabnock on ca Lirach",
+        "rank": {
+            "rank-name": "Marquis",
+            "color": "Violet",
+            "incense": "Jasmine",
+            "metal": "Silver",
+            "celestial": "Moon"
+        },
+        "ruling-days": {
+            "month": "May",
+            "ending-month": "",
+            "starting-day": 21,
+            "ending-day": 31,
+            "sign": "Gemini",
+            "degrees": "0 - 9",
+            "day-or-night": "Night"
+        },
+        "description": "The Forty-third Spirit, as King Solomon commanded them into the Vessel of Brass, is called Sabnock, or Savnok. He is a Marquis, Mighty, Great and Strong, appearing in the Form of an Armed Soldier with a Lion's Head, riding on a pale-coloured horse. His office is to build high Towers, Castles and Cities, and to furnish them with Armour, etc. Also he can afflict Men for many days with Wounds and with Sores rotten and full of Worms. He giveth Good Familiars at the request of the Exorcist. He commandeth 50 Legions of Spirits; and his Seal is this, etc."
+    },
+    "44": {
+        "id": 44,
+        "name": "Shax",
+        "alt-names": {
+            "1": "Shaz (Shass)"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/shax.png",
+        "enn": "Ayer Avage Shax aken",
+        "rank": {
+            "rank-name": "Marquis",
+            "color": "Violet",
+            "incense": "Jasmine",
+            "metal": "Silver",
+            "celestial": "Moon"
+        },
+        "ruling-days": {
+            "month": "June",
+            "ending-month": "",
+            "starting-day": 1,
+            "ending-day": 10,
+            "sign": "Gemini",
+            "degrees": "10 - 19",
+            "day-or-night": "Night"
+        },
+        "description": "The Forty-fourth Spirit is Shax, or Shaz (or Shass). He is a Great Marquis, and appeareth in the Form of a Stock-Dove, speaking with a voice hoarse, but yet subtle. His Office is to take away the Sight, Hearing, or Understanding of any Man or Woman at the command of the Exorcist; and to steal money out of the houses of Kings, and to carry it again in 1,200 years. If commanded he will fetch Horses at the request of the Exorcist, or any other thing. But he must first be commanded into a Triangle, D, or else he will deceive him, and tell him many Lies. He can discover all things that are Hidden, and not kept by Wicked Spirits. He giveth good Familiars, sometimes. He gov-erneth 30 Legions of Spirits, and his Seal is this, etc."
+    },
+    "45": {
+        "id": 45,
+        "name": "Vine",
+        "alt-names": {
+            "1": "Vinea"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/vine.png",
+        "enn": "Eyesta nas Vine ca laris",
+        "rank": {
+            "rank-name": "King",
+            "color": "Yellow",
+            "incense": "Frankincense",
+            "metal": "Gold",
+            "celestial": "Sun"
+        },
+        "ruling-days": {
+            "month": "June",
+            "ending-month": "",
+            "starting-day": 11,
+            "ending-day": 21,
+            "sign": "Gemini",
+            "degrees": "20 - 29",
+            "day-or-night": "Night"
+        },
+        "description": "The Forty-fifth Spirit is Viné, or Vinea. He is a Great King, and an Earl; and appeareth in the Form of a Lion, riding on a Black Horse, and bearing a Viper in his hand. His Office is to discover Things Hidden, Witches, Wizards, and Things Past, Present and to Come. He at the command of the Exorcist will build Towers, overthrow Great Stone Walls, and make the Waters rough with Storms. He governeth 36 Legions of Spirits. And his Seal is this, which wear thou, as aforesaid, etc."
+    },
+    "46": {
+        "id": 46,
+        "name": "Bifrons",
+        "alt-names": {
+            "1": "Bifrous",
+            "2": "Bifrova"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/bifrons.png",
+        "enn": "Avage secore Bifrons remie tasa",
+        "rank": {
+            "rank-name": "Earl",
+            "color": "Red",
+            "incense": "Dragons Blood",
+            "metal": "Silver or Copper",
+            "celestial": "Mars"
+        },
+        "ruling-days": {
+            "month": "June",
+            "ending-month": "July",
+            "starting-day": 22,
+            "ending-day": 1,
+            "sign": "Cancer",
+            "degrees": "0 - 9",
+            "day-or-night": "Night"
+        },
+        "description": "The Forty-sixth Spirit is called Bifrons, or Bifröus, or Bifrovs. He is an Earl, and appeareth in the form of a Monster; but after a while, at the Command of the Exorcist, he putteth on the shape of a Man. His Office is to make one knowing in Astrology, Geometry, and other Arts and Sciences. He teacheth the Virtues of Precious Stones and Woods. He changeth Dead Bodies, and putteth them in another place; also he lighteth seeming candles upon the Graves of the Dead. He hath under his Command 61 Legions of Spirits. His Seal is this, which he will own and submit unto, etc."
+    },
+    "47": {
+        "id": 47,
+        "name": "Uvall",
+        "alt-names": {
+            "1": "Vual",
+            "2": "Voval"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/vual.png",
+        "enn": "As ana nany on ca Uvall",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "July",
+            "ending-month": "",
+            "starting-day": 2,
+            "ending-day": 12,
+            "sign": "Cancer",
+            "degrees": "10 - 19",
+            "day-or-night": "Night"
+        },
+        "description": "The Forty-Seventh Spirit is Uvall, or Vual, or Voval. He is a Duke, Great, Mighty, and Strong; and appeareth in the form of a Mighty Dromedary at the first, but after a while at the Command of the Exorcist he putteth on Human Shape, and speaketh the Egyptian Tongue, but not perfectly. His Office is to Procure the Love of Women, and to tell Things Past, Present, and to Come. He also procureth Friendship between Friends and Foes. He was in the Order of Potestates or Powers. He governeth 37 Legions of Spirits, and his Seal is this, to be made and worn before thee, etc."
+    },
+    "48": {
+        "id": 48,
+        "name": "Haagenti",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/haagenti.png",
+        "enn": "Haagenti on ca Lirach",
+        "rank": {
+            "rank-name": "President",
+            "color": "Orange",
+            "incense": "Storax",
+            "metal": "Mercury",
+            "celestial": "Mercury"
+        },
+        "ruling-days": {
+            "month": "July",
+            "ending-month": "",
+            "starting-day": 13,
+            "ending-day": 22,
+            "sign": "Cancer",
+            "degrees": "20 - 29",
+            "day-or-night": "Night"
+        },
+        "description": "The Forty-eighth Spirit is Haagenti. He is a President, appearing in the Form of a Mighty Bull with Gryphon's Wings. This is at first, but after, at the Command of the Exorcist he putteth on Human Shape. His Office is to make Men wise, and to instruct them in divers things; also to Transmute all Metals into Gold; and to change Wine into Water, and Water into Wine. He governeth 33 Legions of Spirits, and his Seal is this, etc."
+    },
+    "49": {
+        "id": 49,
+        "name": "Crocell",
+        "alt-names": {
+            "1": "Crokel"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/crocell.png",
+        "enn": "Jedan tasa Crocell on ca",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "July",
+            "ending-month": "August",
+            "starting-day": 23,
+            "ending-day": 1,
+            "sign": "Leo",
+            "degrees": "0 - 9",
+            "day-or-night": "Night"
+        },
+        "description": "The Forty-ninth Spirit is Crocell, or Crokel. He appeareth in the Form of an Angel. He is a Duke Great and Strong, speaking something Mystically of Hidden Things. He teacheth the Art of Geometry and the Liberal Sciences. He, at the Command of the Exorcist, will produce Great Noises like the Rushing of many Waters, although there be none. He warmeth Waters, and discovereth Baths. He was of the Order of Potestates, or Powers, before his fall, as he declared unto King Solomon. He governeth 48 Legions of Spirits. His Seal is this, the which wear thou as aforesaid."
+    },
+    "50": {
+        "id": 50,
+        "name": "Furcas",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/furcas.png",
+        "enn": "Secore on ca Furcas remie",
+        "rank": {
+            "rank-name": "Knight",
+            "color": "Black",
+            "incense": "Myrrh",
+            "metal": "Lead",
+            "celestial": "Saturn"
+        },
+        "ruling-days": {
+            "month": "August",
+            "ending-month": "",
+            "starting-day": 2,
+            "ending-day": 12,
+            "sign": "Leo",
+            "degrees": "10 - 19",
+            "day-or-night": "Night"
+        },
+        "description": "The Fiftieth Spirit is Furcas. He is a Knight, and appeareth in the Form of a Cruel Old Man with a long Beard and a hoary Head, riding upon a pale-coloured Horse, with a Sharp Weapon in his hand. His Office is to teach the Arts of Philosophy, Astrology, Rhetoric, Logic, Cheiromancy, and Pyromancy, in all their parts, and perfectly. He hath under his Power 20 Legions of Spirits. His Seal, or Mark, is thus made, etc."
+    },
+    "51": {
+        "id": 51,
+        "name": "Balam",
+        "alt-names": {
+            "1": "Balaam"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/balam.png",
+        "enn": "Lirach tasa vefa wehlc (wehl) Balam",
+        "rank": {
+            "rank-name": "King",
+            "color": "Yellow",
+            "incense": "Frankincense",
+            "metal": "Gold",
+            "celestial": "Sun"
+        },
+        "ruling-days": {
+            "month": "August",
+            "ending-month": "",
+            "starting-day": 13,
+            "ending-day": 22,
+            "sign": "Leo",
+            "degrees": "10 - 19",
+            "day-or-night": "Night"
+        },
+        "description": "The Fifty-First Spirit is Balam or Balaam. He is a Terrible, Great, and Powerful King. He appeareth with three Heads: the first is like that of a Bull; the second is like that of a Man; the third is like that of a Ram. He hath the Tail of a Serpent, and Flaming Eyes. He rideth upon a furious Bear, and carrieth a Goshawk upon his Fist. He speaketh with a hoarse Voice, giving True Answers of Things Past, Present, and to Come. He maketh men to go Invisible, and also to be Witty. He governeth 40 Legions of Spirits. His Seal is this, etc."
+    },
+    "52": {
+        "id": 52,
+        "name": "Alloces",
+        "alt-names": {
+            "1": "Alocas"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/alloces.png",
+        "enn": "Typan efna Alloces met tasa",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "August",
+            "ending-month": "September",
+            "starting-day": 23,
+            "ending-day": 1,
+            "sign": "Virgo",
+            "degrees": "0 - 9",
+            "day-or-night": "Night"
+        },
+        "description": "The Fifty-second Spirit is Alloces, or Alocas. He is a Duke, Great, Mighty, and Strong, appearing in the form of a Solider riding upon a Great Horse. His Face is like that of a Lion, very Red and having Flaming Eyes. His Speech is hoarse and very big. His Office is to teach the Art of Astronomy, and all the Liberal Sciences. He bringeth unto thee Good Familiars; also he ruleth over 36 Legions of Spirits. His Seal is this, which, etc."
+    },
+    "53": {
+        "id": 53,
+        "name": "Caim",
+        "alt-names": {
+            "1": "Camio"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/camio.png",
+        "enn": "Tasa on ca Caim renich",
+        "rank": {
+            "rank-name": "President",
+            "color": "Orange",
+            "incense": "Storax",
+            "metal": "Mercury",
+            "celestial": "Mercury"
+        },
+        "ruling-days": {
+            "month": "September",
+            "ending-month": "",
+            "starting-day": 2,
+            "ending-day": 12,
+            "sign": "Virgo",
+            "degrees": "10 - 19",
+            "day-or-night": "Night"
+        },
+        "description": "The Fifty-third Spirit is Camio, or Caïm. He is a Great President, and appeareth in the Form of the Bird called a Thrush at first, but afterwards he putteth on the Shape of a Man carrying in his hand a Sharp Sword. He seemeth to answer in Burning Ashes, or in Coals of Fire. He is a Good Disputer. His Office is to give unto Men the Understanding of all Birds, Lowing of Bullocks, Barking of Dogs, and other Creatures; and also the Voice of the Waters. He giveth True Answers of Things to Come. He was of the Order of Angels, but now ruleth over 30 Legions of Spirits Infernal. His Seal is this, which wear thou, etc."
+    },
+    "54": {
+        "id": 54,
+        "name": "Murmur",
+        "alt-names": {
+            "1": "Murmus",
+            "2": "Murmux"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/murmur.png",
+        "enn": "Vefa mena Murmur ayer",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "September",
+            "ending-month": "",
+            "starting-day": 13,
+            "ending-day": 22,
+            "sign": "Virgo",
+            "degrees": "20 - 29",
+            "day-or-night": "Night"
+        },
+        "description": "The Fifty-Fourth Spirit is called Murmur, or Murmus, or Murmux. He is a Great Duke, and an Earl; and appeareth in the Form of a Warrior riding upon a Gryphon, with a Ducal Crown upon his Head. There do go before him his Ministers with great Trumpets sounding. His Office is to teach Philosophy perfectly, and to constrain Souls of the Deceased to come before the Exorcist to answer those questions which he may wish to put to them, if desired. He was partly of the Order of Thrones, and partly of that of Angels. He now ruleth 30 Legions of Spirits. And his Seal is this, etc."
+    },
+    "55": {
+        "id": 55,
+        "name": "Orobas",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/orobas.png",
+        "enn": "Jedan tasa hoet naca Orobas",
+        "rank": {
+            "rank-name": "Prince",
+            "color": "Blue",
+            "incense": "Cedar",
+            "metal": "Tin",
+            "celestial": "Jupiter"
+        },
+        "ruling-days": {
+            "month": "September",
+            "ending-month": "October",
+            "starting-day": 23,
+            "ending-day": 2,
+            "sign": "Libra",
+            "degrees": "0 - 9",
+            "day-or-night": "Night"
+        },
+        "description": "The Fifty-fifth Spirit is Orobas. He is a Great and Mighty Prince, appearing at first like a Horse; but after the command of the Exorcist he putteth on the image of a Man. His Office is to discover all things Past, Present, and to Come; also to give Dignities, and Prelacies, and the Favour of Friends and of Foes. He giveth True Answers of Divinity, and of the Creation of the World. He is very faithful unto the Exorcist, and will not suffer him to be tempted of any Spirit. He governeth 20 Legions of Spirits. His Seal is this, etc."
+    },
+    "56": {
+        "id": 56,
+        "name": "Gremory",
+        "alt-names": {
+            "1": "Gamori"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/gremory.png",
+        "enn": "An tasa shi Gremory on ca",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "October",
+            "ending-month": "",
+            "starting-day": 3,
+            "ending-day": 12,
+            "sign": "Libra",
+            "degrees": "10 - 19",
+            "day-or-night": "Night"
+        },
+        "description": "The Fifty-sixth Spirit is Gremory, or Gamori. He is a Duke Strong and Powerful, and appeareth in the Form of a Beautiful woman, with a Duchess's Crown tied about her waist, and riding on a Great Camel. His Office is to tell of all things Past, Present, and to Come; and of Treasures Hid, and what they lie in; and to procure the Love of Women both Young and Old. He governeth 26 Legions of Spirits, and his Seal is this, etc."
+    },
+    "57": {
+        "id": 57,
+        "name": "Ose",
+        "alt-names": {
+            "1": "Voso",
+            "3": "Oso"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/ose.png",
+        "enn": "Ayer serpente Ose",
+        "rank": {
+            "rank-name": "President",
+            "color": "Orange",
+            "incense": "Storax",
+            "metal": "Mercury",
+            "celestial": "Mercury"
+        },
+        "ruling-days": {
+            "month": "October",
+            "ending-month": "",
+            "starting-day": 13,
+            "ending-day": 22,
+            "sign": "Libra",
+            "degrees": "20 - 29",
+            "day-or-night": "Night"
+        },
+        "description": "The Fifty-seventh Spirit is Oso, Osé, or Voso. He is a Great President, and appeareth like a Leopard at the first, but after a little time he putteth on the Shape of a Man. His Office is to make one cunning in the Liberal Sciences, and to give True Answers of Divine and Secret things; also to change a Man into any Shape that the Exorcist pleaseth, so that he is so changed will not think any other thing than that he is in verity that Creature or Thing he is changed into. He governeth 31 Legions of Spirits, and this is his Seal, etc."
+    },
+    "58": {
+        "id": 58,
+        "name": "Amy",
+        "alt-names": {
+            "1": "Avnas",
+            "2": "Auns"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/amy.png",
+        "enn": "Tu Fubin Amy secore",
+        "rank": {
+            "rank-name": "President",
+            "color": "Orange",
+            "incense": "Storax",
+            "metal": "Mercury",
+            "celestial": "Mercury"
+        },
+        "ruling-days": {
+            "month": "October",
+            "ending-month": "November",
+            "starting-day": 23,
+            "ending-day": 1,
+            "sign": "Scorpio",
+            "degrees": "0 - 9",
+            "day-or-night": "Night"
+        },
+        "description": "The Fifty-eighth Spirit is Amy, or Avnas. He is a Great President, and appeareth at first in the form of a Flaming Fire; but after a while he putteth on the Shape of a Man. His Office is to make one Wonderful Knowing in Astrology and all the Liberal Sciences. He giveth Good Familiars and can bewray Treasure that is kept by Spirits. He governeth 36 Legions of Spirits, and his Seal is this, etc."
+    },
+    "59": {
+        "id": 59,
+        "name": "Oriax",
+        "alt-names": {
+            "1": "Orias"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/orias.png",
+        "enn": "Lirach mena Orias Anay na",
+        "rank": {
+            "rank-name": "Marquis",
+            "color": "Violet",
+            "incense": "Jasmine",
+            "metal": "Silver",
+            "celestial": "Moon"
+        },
+        "ruling-days": {
+            "month": "November",
+            "ending-month": "",
+            "starting-day": 2,
+            "ending-day": 12,
+            "sign": "Scorpio",
+            "degrees": "10 - 19",
+            "day-or-night": "Night"
+        },
+        "description": "The Fifty-ninth Spirit is Oriax, or Orias. He is a Great Marquis, and appeareth in the form of a Lion, riding upon a Horse Mighty and Strong, with a Serpent's Tail; and he holdeth in his Right Hand two Great Serpents hissing. His Office is to teach the Virtues of the Stars, and to know the Mansions of the Planets, and how to understand their Virtues. He also transformeth Men, and he giveth Dignities, Prelacies, and Confirmation thereof; also Favour with Friends and with Foes. He doth govern 30 Legions of Spirits; and his Seal is this, etc."
+    },
+    "60": {
+        "id": 60,
+        "name": "Vapula",
+        "alt-names": {
+            "1": "Naphula"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/vapula.png",
+        "enn": "Renich secore Vapula typan",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "November",
+            "ending-month": "",
+            "starting-day": 13,
+            "ending-day": 22,
+            "sign": "Scorpio",
+            "degrees": "20 - 29",
+            "day-or-night": "Night"
+        },
+        "description": "The Sixtieth Spirit is Vapula, or Naphula. He is a Duke Great, Mighty and Strong; appearing in the Form of a Lion with Gryphon's Wings. His Office is to make Men Knowing in all Handicrafts and Professions, also in Philosophy, and other sciences. He governeth 36 Legions of Spirits, and his Seal or Character is thus made, and thou shalt wear it as aforesaid, etc."
+    },
+    "61": {
+        "id": 61,
+        "name": "Zagan",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/zagan.png",
+        "enn": "Anay on ca secore Zagan tasa",
+        "rank": {
+            "rank-name": "King",
+            "color": "Yellow",
+            "incense": "Frankincense",
+            "metal": "Gold",
+            "celestial": "Sun"
+        },
+        "ruling-days": {
+            "month": "November",
+            "ending-month": "December",
+            "starting-day": 23,
+            "ending-day": 2,
+            "sign": "Sagittarius",
+            "degrees": "0 - 9",
+            "day-or-night": "Night"
+        },
+        "description": "THE Sixty-first Spirit is Zagan. He is a Great King and President, appearing at first in the Form of a Bull with Gryphon's Wings; but after a while he putteth on Human Shape. He maketh Men Witty. He can turn Wine into Water, and Blood into Wine. He can turn all Metals into Coin of the Domninion that Metal is of. He can even make Fools Wise. He governeth 33 Legions of Spirits, and his Seal is this, etc."
+    },
+    "62": {
+        "id": 62,
+        "name": "Volac",
+        "alt-names": {
+            "1": "Valak",
+            "2": "Valu",
+            "3": "Valac"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/valac.png",
+        "enn": "Avage Secore on ca Volac",
+        "rank": {
+            "rank-name": "President",
+            "color": "Orange",
+            "incense": "Storax",
+            "metal": "Mercury",
+            "celestial": "Mercury"
+        },
+        "ruling-days": {
+            "month": "December",
+            "ending-month": "",
+            "starting-day": 3,
+            "ending-day": 11,
+            "sign": "Sagittarius",
+            "degrees": "10 - 19",
+            "day-or-night": "Night"
+        },
+        "description": "The Sixty-second Spirit is Volac, or Valak, or Valu. He is a President Mighty and Great, and appeareth like a Child with Angel's Wings, riding on a Two-headed Dragon. His Office is to give True Answers of Hidden Treasures, and to tell where Serpents may be seen. The which he will bring unto the Exorciser without any Force or Strength being by him employed. He governeth 38 Legions of Spirts, and his Seal is thus."
+    },
+    "63": {
+        "id": 63,
+        "name": "Andras",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/andras.png",
+        "enn": "Entey ama Andras anay",
+        "rank": {
+            "rank-name": "Marquis",
+            "color": "Violet",
+            "incense": "Jasmine",
+            "metal": "Silver",
+            "celestial": "Moon"
+        },
+        "ruling-days": {
+            "month": "December",
+            "ending-month": "",
+            "starting-day": 12,
+            "ending-day": 21,
+            "sign": "Sagittarius",
+            "degrees": "20 - 29",
+            "day-or-night": "Night"
+        },
+        "description": "The Sixty-third Spirit is Andras. He is a Great Marquis, appearing in the Form of an Angel with a Head like a Black Night Raven, riding upon a strong Black Wolf, and having a Sharp and Bright Sword flourished aloft in his hand. His Office is to sow Discords. If the Exorcist have not a care he will slay both him and his fellows. He governeth 30 Legions of Spirits, and this is his Seal, etc."
+    },
+    "64": {
+        "id": 64,
+        "name": "Haures",
+        "alt-names": {
+            "1": "Hauras",
+            "2": "Havres",
+            "3": "Flauros"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/haures.png",
+        "enn": "Ganic tasa fubin Flauros",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "December",
+            "ending-month": "",
+            "starting-day": 22,
+            "ending-day": 31,
+            "sign": "Capricorn",
+            "degrees": "0 - 9",
+            "day-or-night": "Night"
+        },
+        "description": "The Sixty-fourth Spirit is Haures, or Hauras, or Havres, or Flauros. He is a Great Duke, and appeareth at first like a Leopard, Mighty, Terrible, and Strong, but after a while, at the Command of the Exorcist, he putteth on Human Shape with Eyes Flaming and Fiery, and a most Terrible Countenance. He giveth True Answers of all things, Present, Past, and to Come. But if he be not commanded into a triangle, D, he will Lie in all these Things, and deceive and beguile the Exorcist in these things or in such and such business. He will, lastly, talk of the Creation of the World, and of Divinity, and of how he and other Spirits fell. He destroyeth and burneth up those who be the Enemies of the Exorcist should he so desire it; also he will not suffer him to be tempted by any other Spirit or otherwise. He governeth 36 Legions of Spirits, and his Seal is this, to be worn as a Lamen, etc."
+    },
+    "65": {
+        "id": 65,
+        "name": "Andrealphus",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/andrealphus.png",
+        "enn": "Mena Andrealphus tasa ramec ayer",
+        "rank": {
+            "rank-name": "Marquis",
+            "color": "Violet",
+            "incense": "Jasmine",
+            "metal": "Silver",
+            "celestial": "Moon"
+        },
+        "ruling-days": {
+            "month": "January",
+            "ending-month": "",
+            "starting-day": 1,
+            "ending-day": 10,
+            "sign": "Capricorn",
+            "degrees": "10 - 19",
+            "day-or-night": "Night"
+        },
+        "description": "The Sixty-fifth Spirit is Andrealphus. He is a Mighty Marquis, appearing at first in the form of a Peacock, with great Noises. But after a time he putteth on Human shape. He can teach Geometry perfectly. He maketh Men very subtle there-in; and in all Things pertaining unto Mensuration or Astronomy. He can transform a Man into the Likeness of a Bird. He governeth 30 Legions of Infernal Spirits, and his seal is this, etc."
+    },
+    "66": {
+        "id": 66,
+        "name": "Cimejes",
+        "alt-names": {
+            "1": "Cimeies",
+            "2": "Kimaris"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/cimejes.png",
+        "enn": "Ayer avage secore Cimejes",
+        "rank": {
+            "rank-name": "Marquis",
+            "color": "Violet",
+            "incense": "Jasmine",
+            "metal": "Silver",
+            "celestial": "Moon"
+        },
+        "ruling-days": {
+            "month": "January",
+            "ending-month": "",
+            "starting-day": 11,
+            "ending-day": 19,
+            "sign": "Capricorn",
+            "degrees": "20 - 29",
+            "day-or-night": "Night"
+        },
+        "description": "The Sixty-sixth Spirit is Cimejes, or Cimeies, or Kimaris. He is a Marquis, Mighty, Great, Strong and Powerful, appearing like a Valiant Warrior riding upon a goodly Black Horse. He ruleth over all Spirits in the parts of Africa. His Office is to teach perfectly Grammar, Logic, Rhetoric, and to discover things Lost or Hidden, and Treasures. He governeth 30 Legions of Internals, and his Seal is this, etc."
+    },
+    "67": {
+        "id": 67,
+        "name": "Amdusias",
+        "alt-names": {
+            "1": "Amdukias"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/amdusias.png",
+        "enn": "Denyen valocur avage secore Amdusias",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "January",
+            "ending-month": "",
+            "starting-day": 11,
+            "ending-day": 19,
+            "sign": "Aquarius",
+            "degrees": "0 - 9",
+            "day-or-night": "Night"
+        },
+        "description": "The Sixty-seventh Spirit is Amdusias, or Amdukias. He is a Duke Great and Strong, appearing at first like a Unicorn, but at the request of the Exorcist he standeth before him in Human Shape, causing Trumpets, and all manner of Musical Instruments to be heard, but not soon or immediately. Also he can cause Trees to bend and incline according to the Exorcist's Will. He giveth Excellent Familiars. He governeth 29 Legions of Spirits. And his Seal is this, etc."
+    },
+    "68": {
+        "id": 68,
+        "name": "Belial",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/belial.png",
+        "enn": "Lirach Tasa Vefa Wehlc Belial",
+        "rank": {
+            "rank-name": "King",
+            "color": "Yellow",
+            "incense": "Frankincense",
+            "metal": "Gold",
+            "celestial": "Sun"
+        },
+        "ruling-days": {
+            "month": "January",
+            "ending-month": "February",
+            "starting-day": 30,
+            "ending-day": 8,
+            "sign": "Aquarius",
+            "degrees": "10 - 19",
+            "day-or-night": "Night"
+        },
+        "description": "The Sixty-eighth Spirit is Belial. He is a Powerful King, and was created next after LUCIFER. He appeareth in the Form of Two beautiful Angels sitting in a Chariot of Fire. He speaketh with a Comely Voice, and declareththat he fell first from among the worthier sort, that were before Michael, and other Heavenly Angels. His Office is to distribute Presentations and Senatorships, etc., and to cause favour of Friends and of Foes. He giveth excellent Familiars, and governeth 80 Legions of Spirits. Note well that this King Belial must have Offerings, Sacrifices and Gifts presented unto him by the Exorcist, or else he will not give True Answers unto his Demands. But then he tarrieth not one hour in the Truth, unless he be constrained by Divine Power. And his Seal is this, which is to be worn as aforesaid, etc."
+    },
+    "69": {
+        "id": 69,
+        "name": "Decarabia",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/decarabia.png",
+        "enn": "Hoesta noc ra Decarabia secore",
+        "rank": {
+            "rank-name": "Marquis",
+            "color": "Violet",
+            "incense": "Jasmine",
+            "metal": "Silver",
+            "celestial": "Moon"
+        },
+        "ruling-days": {
+            "month": "February",
+            "ending-month": "",
+            "starting-day": 9,
+            "ending-day": 18,
+            "sign": "Aquarius",
+            "degrees": "20 - 29",
+            "day-or-night": "Night"
+        },
+        "description": "The Sixty-ninth Spirit is Decarabia. He appeareth in the Form of a Star in a Pentacle, K, at first, but after, at the command of the Exorcist, he putteth on the Image of a Man. His Office is to discover the Virtues of Birds and Precious Stones, and to make the Similitude of all kinds of Birds to fly before the Exorcist, siging and drinking as natural Birds do. He governeth 30 Legions of Spirits, being himself a Great Marquis. And this is his Seal, which is to be worn, etc."
+    },
+    "70": {
+        "id": 70,
+        "name": "Seere",
+        "alt-names": {
+            "1": "Sear",
+            "2": "Seir"
+        },
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/seere.png",
+        "enn": "Jeden et Renich Seere tu tasa",
+        "rank": {
+            "rank-name": "Prince",
+            "color": "Blue",
+            "incense": "Cedar",
+            "metal": "Tin",
+            "celestial": "Jupiter"
+        },
+        "ruling-days": {
+            "month": "February",
+            "ending-month": "",
+            "starting-day": 19,
+            "ending-day": 29,
+            "sign": "Pisces",
+            "degrees": "0 - 9",
+            "day-or-night": "Night"
+        },
+        "description": "The Seventieth Spirit is Seere, Sea, or Seir. He is a Mighty Prince, and Power-ful, under AMAYMON, King of the East. He appeareth in the Form of a Beautiful Man, riding upon a Winged Horse. His Office is to go and come; and to bring abun-dance of things to pass on a sudden, and to carry or re-carry anything whither thou wouldest have it to go, or whence thou wouldest have it from. He can pass over the whole Earth in the twinkling of an Eye. He giveth a True relation of all sorts of Theft, and of Treasure hid, and of many other things. He is of an indifferent Good Nature, and is willing to do anything which the Exorcist desireth. And this his Seal is to be worn, etc."
+    },
+    "71": {
+        "id": 71,
+        "name": "Dantalion",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/dantalion.png",
+        "enn": "Avage ayer Dantalion on ca",
+        "rank": {
+            "rank-name": "Duke",
+            "color": "Green",
+            "incense": "Sandalwood",
+            "metal": "Copper",
+            "celestial": "Venus"
+        },
+        "ruling-days": {
+            "month": "March",
+            "ending-month": "",
+            "starting-day": 1,
+            "ending-day": 10,
+            "sign": "Pisces",
+            "degrees": "10 - 19",
+            "day-or-night": "Night"
+        },
+        "description": "The Seventy-first Spirit is Dantalion. He is a Duke Great and Mighty, appearing in the Form of a Man with many Countenances, all Men's and Women's Faces; and he hath a Book in his right hand. His Office is to teach all Arts and Sciences unto any; and to declare the Secret Counsels of any one; for he knoweth the Thoughts of all Men and Women, and can change them at his will. He can cause Love, and show the Similitude of any person, and show the same by a Vision, let them be in what part of the World they Will. He governeth 36 Legions of Spirits; and this is his Seal, which wear thou, etc."
+    },
+    "72": {
+        "id": 72,
+        "name": "Andromalius",
+        "alt-names": {},
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/andromalius.png",
+        "enn": "Tasa fubin Andromalius on ca",
+        "rank": {
+            "rank-name": "Earl",
+            "color": "Red",
+            "incense": "Dragons Blood",
+            "metal": "Silver or Copper",
+            "celestial": "Mars"
+        },
+        "ruling-days": {
+            "month": "March",
+            "ending-month": "",
+            "starting-day": 11,
+            "ending-day": 20,
+            "sign": "Pisces",
+            "degrees": "20 - 29",
+            "day-or-night": "Night"
+        },
+        "description": "The Seventy-second spirit in Order is named Andromalius. He is an Earl, Great and Mighty, appearing in the form of a Man holding a Great Serpent in his Hand. His Office is to bring back both a Thief, and the Goods which be stolen; and to discover all Wickedness, and Underhand Dealing; and to punish all Thieves and other Wicked People; and also to discover Treasures that be Hid. He ruleth over 36 Legions of Spirits. His Seal is this, the which wear thou as aforesaid, etc."
+    }
+}
