@@ -27,7 +27,7 @@ def root():
         "message-one": "This API holds all information on the 72 Goetic Demons.",
         "message-two": "AGAPI was created from a love of occult topics and there were no other APIs with this information freely available. So I figured why not?",
         "message-three": "Feel free to peruse endpoints at your leisure! By the way, all endpoints are GET only.",
-        "enpdpoints": {
+        "endpoints": {
             "goetia": "All Goetic information.",
             "goetia/random": "A random Goetic.",
             "goetia/id": "All Goetics by ID number.",
@@ -44,7 +44,7 @@ def root():
             "goetia/color/{color}": "Goetic by ruling color.",
             "goetia/metal/{metal}": "Goetic by ruling metal.",
             "goetia/celectial/{celestial}": "Goetic by ruling planet."
-        }
+        },
         "links": {
             "sources": {
                 "ars-goetia": "https://ia802801.us.archive.org/34/items/ac_goetia/ac_goetia.pdf",
