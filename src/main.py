@@ -26,7 +26,7 @@ def root():
         "introduction": "Welcome to the Ars Goetia REST API!",
         "message-one": "This API holds all information on the 72 Goetic Demons.",
         "message-two": "AGAPI was created from a love of occult topics and there were no other APIs with this information freely available. So I figured why not?",
-        "message-three": "Feel free to peruse endpoints at your leisure!"
+        "message-three": "Feel free to peruse endpoints at your leisure!",
         "links": {
             "sources": {
                 "ars-goetia": "https://ia802801.us.archive.org/34/items/ac_goetia/ac_goetia.pdf",
