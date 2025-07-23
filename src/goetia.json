@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Bael",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/bael.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/bael.png",
         "enn": "Ayer Secore On Ca Ba'al",
         "rank": {
             "rank-name": "King",
@@ -29,7 +29,7 @@
         "alt-names": {
             "1": "Agreas"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/agares.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/agares.png",
         "enn": "Rean ganen ayar da Agares",
         "rank": {
             "rank-name": "Duke",
@@ -53,7 +53,7 @@
         "id": 3,
         "name": "Vassago",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/vassago.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/vassago.png",
         "enn": "Keyan vefa jedan tasa Vassago",
         "rank": {
             "rank-name": "Prince",
@@ -79,7 +79,7 @@
         "alt-names": {
             "1": "Samigina"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/samigin.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/samigin.png",
         "enn": "",
         "rank": {
             "rank-name": "Marquis",
@@ -103,7 +103,7 @@
         "id": 5,
         "name": "Marbas",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/marbas.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/marbas.png",
         "enn": "Renach tasa uberace biasa icar Marbas",
         "rank": {
             "rank-name": "President",
@@ -127,7 +127,7 @@
         "id": 6,
         "name": "Valefor",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/valefor.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/valefor.png",
         "enn": "Keyman vefa tasa Valefor",
         "rank": {
             "rank-name": "Duke",
@@ -151,7 +151,7 @@
         "id": 7,
         "name": "Amon",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/amon.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/amon.png",
         "enn": "Avage Secore Amon ninan",
         "rank": {
             "rank-name": "Marquis",
@@ -175,7 +175,7 @@
         "id": 8,
         "name": "Barbatos",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/barbatos.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/barbatos.png",
         "enn": "Eveta fubin Barbatos",
         "rank": {
             "rank-name": "Duke",
@@ -199,7 +199,7 @@
         "id": 9,
         "name": "Paimon",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/paimon.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/paimon.png",
         "enn": "Linan tasa jedan Paimon",
         "rank": {
             "rank-name": "King",
@@ -223,7 +223,7 @@
         "id": 10,
         "name": "Buer",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/bune.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/bune.png",
         "enn": "Erato on ca Buer anon",
         "rank": {
             "rank-name": "President",
@@ -247,7 +247,7 @@
         "id": 11,
         "name": "Gusion",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/gusion.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/gusion.png",
         "enn": "Secore vesa anet Gusion",
         "rank": {
             "rank-name": "Duke",
@@ -271,7 +271,7 @@
         "id": 12,
         "name": "Sitri",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/sitri.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/sitri.png",
         "enn": "Lirach Alora vefa Sitri",
         "rank": {
             "rank-name": "Prince",
@@ -298,7 +298,7 @@
             "1": "Bileth",
             "2": "Bilet"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/beleth.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/beleth.png",
         "enn": "Lirach tasa vefa wehlc Beleth",
         "rank": {
             "rank-name": "King",
@@ -324,7 +324,7 @@
         "alt-names": {
             "1": "Leraikha"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/leraje.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/leraje.png",
         "enn": " Caymen vefa Leraje",
         "rank": {
             "rank-name": "Marquis",
@@ -348,7 +348,7 @@
         "id": 15,
         "name": "Eligos",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/eligos.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/eligos.png",
         "enn": "Jedan on ca Eligos inan",
         "rank": {
             "rank-name": "Duke",
@@ -372,7 +372,7 @@
         "id": 16,
         "name": "Zepar",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/zepar.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/zepar.png",
         "enn": "Lyan Ramec catya Zepar",
         "rank": {
             "rank-name": "Duke",
@@ -396,7 +396,7 @@
         "id": 17,
         "name": "Botis",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/botis.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/botis.png",
         "enn": "Jedan hoesta noc ra Botis",
         "rank": {
             "rank-name": "President",
@@ -420,7 +420,7 @@
         "id": 18,
         "name": "Bathin",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/bathin.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/bathin.png",
         "enn": "Dyen Pretore on ca Bathin",
         "rank": {
             "rank-name": "Duke",
@@ -446,7 +446,7 @@
         "alt-names": {
             "1": "Saleos"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/sallos.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/sallos.png",
         "enn": "Serena Alora Sallos Aken",
         "rank": {
             "rank-name": "Duke",
@@ -470,7 +470,7 @@
         "id": 20,
         "name": "Purson",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/purson.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/purson.png",
         "enn": "Ana jecore on ca Purson",
         "rank": {
             "rank-name": "King",
@@ -494,7 +494,7 @@
         "id": 21,
         "name": "Marax",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/marax.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/marax.png",
         "enn": "Kaymen Vefa Marax",
         "rank": {
             "rank-name": "President",
@@ -518,7 +518,7 @@
         "id": 22,
         "name": "Ipos",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/ipos.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/ipos.png",
         "enn": "Desa an Ipos Ayer",
         "rank": {
             "rank-name": "Earl",
@@ -542,7 +542,7 @@
         "id": 23,
         "name": "Aim",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/aim.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/aim.png",
         "enn": "Ayer avage secore Aim",
         "rank": {
             "rank-name": "Duke",
@@ -566,7 +566,7 @@
         "id": 24,
         "name": "Naberius",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/naberius.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/naberius.png",
         "enn": "Eyan tasa volocur Naberius",
         "rank": {
             "rank-name": "Marquis",
@@ -590,7 +590,7 @@
         "id": 25,
         "name": "Glasya-Labolas",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/glasya.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/glasya.png",
         "enn": "Elan tepar secore on ca Glasya-Lobolas",
         "rank": {
             "rank-name": "President",
@@ -617,7 +617,7 @@
             "1": "Bime",
             "2": "Bim"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/bune.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/bune.png",
         "enn": "Wehlc melan avage Bune Tasa",
         "rank": {
             "rank-name": "Duke",
@@ -641,7 +641,7 @@
         "id": 27,
         "name": "Ronove",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/ronove.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/ronove.png",
         "enn": "Kaymen vefa Ronove",
         "rank": {
             "rank-name": "Marquis",
@@ -670,7 +670,7 @@
             "3": "Bofry",
             "4": "Bolfry"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/berith.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/berith.png",
         "enn": "Hoath redar ganabal Berith",
         "rank": {
             "rank-name": "Duke",
@@ -694,7 +694,7 @@
         "id": 29,
         "name": "Astaroth",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/astaroth.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/astaroth.png",
         "enn": "Tasa Alora Foren Astaroth",
         "rank": {
             "rank-name": "Duke",
@@ -718,7 +718,7 @@
         "id": 30,
         "name": "Forneus",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/forneus.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/forneus.png",
         "enn": "Senan okat ena Forneus ayer",
         "rank": {
             "rank-name": "Marquis",
@@ -742,7 +742,7 @@
         "id": 31,
         "name": "Foras",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/foras.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/foras.png",
         "enn": "Kaymen vefa Foras",
         "rank": {
             "rank-name": "President",
@@ -769,7 +769,7 @@
             "1": "Asmodeus",
             "2": "Asmodai"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/asmodeus.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/asmodeus.png",
         "enn": "Ayer avage Aloren Asmoday aken",
         "rank": {
             "rank-name": "King",
@@ -793,7 +793,7 @@
         "id": 33,
         "name": "Gaap",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/gaap.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/gaap.png",
         "enn": "Deyan Anay Tasa Gaap",
         "rank": {
             "rank-name": "President",
@@ -817,7 +817,7 @@
         "id": 34,
         "name": "Furfur",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/furfur.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/furfur.png",
         "enn": "Ganen menach tasa Furfur",
         "rank": {
             "rank-name": "Earl",
@@ -841,7 +841,7 @@
         "id": 35,
         "name": "Marchosias",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/marchosias.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/marchosias.png",
         "enn": "Es na ayer Marchosias Secore",
         "rank": {
             "rank-name": "Marquis",
@@ -867,7 +867,7 @@
         "alt-names": {
             "1": "Stolos"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/stolas.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/stolas.png",
         "enn": "Stolas Ramec viasa on ca",
         "rank": {
             "rank-name": "Prince",
@@ -893,7 +893,7 @@
         "alt-names": {
             "1": "Pheynix"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/phenex.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/phenex.png",
         "enn": "Ef enay Phenex ayer",
         "rank": {
             "rank-name": "Marquis",
@@ -920,7 +920,7 @@
             "1": "Malthus",
             "2": "Halphas"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/halphas.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/halphas.png",
         "enn": "Erato Halphas on ca secore",
         "rank": {
             "rank-name": "Earl",
@@ -944,7 +944,7 @@
         "id": 39,
         "name": "Malphus",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/malphas.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/malphas.png",
         "enn": "Lirach tasa Malphas ayer",
         "rank": {
             "rank-name": "President",
@@ -968,7 +968,7 @@
         "id": 40,
         "name": "Raum",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/raum.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/raum.png",
         "enn": "Furca na alle laris Raum",
         "rank": {
             "rank-name": "Earl",
@@ -995,7 +995,7 @@
             "1": "Forcalor",
             "2": "Furcalor"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/focalor.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/focalor.png",
         "enn": "En Jedan on ca Focalor",
         "rank": {
             "rank-name": "Duke",
@@ -1021,7 +1021,7 @@
         "alt-names": {
             "1": "Vephar"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/vepar.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/vepar.png",
         "enn": "On ca Vepar Ag Na",
         "rank": {
             "rank-name": "Duke",
@@ -1047,7 +1047,7 @@
         "alt-names": {
             "1": "Savnock"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/sabnock.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/sabnock.png",
         "enn": "Tasa Sabnock on ca Lirach",
         "rank": {
             "rank-name": "Marquis",
@@ -1073,7 +1073,7 @@
         "alt-names": {
             "1": "Shaz (Shass)"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/shax.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/shax.png",
         "enn": "Ayer Avage Shax aken",
         "rank": {
             "rank-name": "Marquis",
@@ -1099,7 +1099,7 @@
         "alt-names": {
             "1": "Vinea"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/vine.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/vine.png",
         "enn": "Eyesta nas Vine ca laris",
         "rank": {
             "rank-name": "King",
@@ -1126,7 +1126,7 @@
             "1": "Bifrous",
             "2": "Bifrova"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/bifrons.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/bifrons.png",
         "enn": "Avage secore Bifrons remie tasa",
         "rank": {
             "rank-name": "Earl",
@@ -1153,7 +1153,7 @@
             "1": "Vual",
             "2": "Voval"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/vual.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/vual.png",
         "enn": "As ana nany on ca Uvall",
         "rank": {
             "rank-name": "Duke",
@@ -1177,7 +1177,7 @@
         "id": 48,
         "name": "Haagenti",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/haagenti.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/haagenti.png",
         "enn": "Haagenti on ca Lirach",
         "rank": {
             "rank-name": "President",
@@ -1203,7 +1203,7 @@
         "alt-names": {
             "1": "Crokel"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/crocell.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/crocell.png",
         "enn": "Jedan tasa Crocell on ca",
         "rank": {
             "rank-name": "Duke",
@@ -1227,7 +1227,7 @@
         "id": 50,
         "name": "Furcas",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/furcas.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/furcas.png",
         "enn": "Secore on ca Furcas remie",
         "rank": {
             "rank-name": "Knight",
@@ -1253,7 +1253,7 @@
         "alt-names": {
             "1": "Balaam"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/balam.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/balam.png",
         "enn": "Lirach tasa vefa wehlc (wehl) Balam",
         "rank": {
             "rank-name": "King",
@@ -1279,7 +1279,7 @@
         "alt-names": {
             "1": "Alocas"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/alloces.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/alloces.png",
         "enn": "Typan efna Alloces met tasa",
         "rank": {
             "rank-name": "Duke",
@@ -1305,7 +1305,7 @@
         "alt-names": {
             "1": "Camio"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/camio.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/camio.png",
         "enn": "Tasa on ca Caim renich",
         "rank": {
             "rank-name": "President",
@@ -1332,7 +1332,7 @@
             "1": "Murmus",
             "2": "Murmux"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/murmur.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/murmur.png",
         "enn": "Vefa mena Murmur ayer",
         "rank": {
             "rank-name": "Duke",
@@ -1356,7 +1356,7 @@
         "id": 55,
         "name": "Orobas",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/orobas.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/orobas.png",
         "enn": "Jedan tasa hoet naca Orobas",
         "rank": {
             "rank-name": "Prince",
@@ -1382,7 +1382,7 @@
         "alt-names": {
             "1": "Gamori"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/gremory.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/gremory.png",
         "enn": "An tasa shi Gremory on ca",
         "rank": {
             "rank-name": "Duke",
@@ -1409,7 +1409,7 @@
             "1": "Voso",
             "3": "Oso"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/ose.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/ose.png",
         "enn": "Ayer serpente Ose",
         "rank": {
             "rank-name": "President",
@@ -1436,7 +1436,7 @@
             "1": "Avnas",
             "2": "Auns"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/amy.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/amy.png",
         "enn": "Tu Fubin Amy secore",
         "rank": {
             "rank-name": "President",
@@ -1462,7 +1462,7 @@
         "alt-names": {
             "1": "Orias"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/orias.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/orias.png",
         "enn": "Lirach mena Orias Anay na",
         "rank": {
             "rank-name": "Marquis",
@@ -1488,7 +1488,7 @@
         "alt-names": {
             "1": "Naphula"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/vapula.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/vapula.png",
         "enn": "Renich secore Vapula typan",
         "rank": {
             "rank-name": "Duke",
@@ -1512,7 +1512,7 @@
         "id": 61,
         "name": "Zagan",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/zagan.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/zagan.png",
         "enn": "Anay on ca secore Zagan tasa",
         "rank": {
             "rank-name": "King",
@@ -1540,7 +1540,7 @@
             "2": "Valu",
             "3": "Valac"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/valac.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/valac.png",
         "enn": "Avage Secore on ca Volac",
         "rank": {
             "rank-name": "President",
@@ -1564,7 +1564,7 @@
         "id": 63,
         "name": "Andras",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/andras.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/andras.png",
         "enn": "Entey ama Andras anay",
         "rank": {
             "rank-name": "Marquis",
@@ -1592,7 +1592,7 @@
             "2": "Havres",
             "3": "Flauros"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/haures.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/haures.png",
         "enn": "Ganic tasa fubin Flauros",
         "rank": {
             "rank-name": "Duke",
@@ -1616,7 +1616,7 @@
         "id": 65,
         "name": "Andrealphus",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/andrealphus.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/andrealphus.png",
         "enn": "Mena Andrealphus tasa ramec ayer",
         "rank": {
             "rank-name": "Marquis",
@@ -1643,7 +1643,7 @@
             "1": "Cimeies",
             "2": "Kimaris"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/cimejes.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/cimejes.png",
         "enn": "Ayer avage secore Cimejes",
         "rank": {
             "rank-name": "Marquis",
@@ -1669,7 +1669,7 @@
         "alt-names": {
             "1": "Amdukias"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/amdusias.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/amdusias.png",
         "enn": "Denyen valocur avage secore Amdusias",
         "rank": {
             "rank-name": "Duke",
@@ -1693,7 +1693,7 @@
         "id": 68,
         "name": "Belial",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/belial.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/belial.png",
         "enn": "Lirach Tasa Vefa Wehlc Belial",
         "rank": {
             "rank-name": "King",
@@ -1717,7 +1717,7 @@
         "id": 69,
         "name": "Decarabia",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/decarabia.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/decarabia.png",
         "enn": "Hoesta noc ra Decarabia secore",
         "rank": {
             "rank-name": "Marquis",
@@ -1735,7 +1735,7 @@
             "degrees": "20 - 29",
             "day-or-night": "Night"
         },
-        "description": "The Sixty-ninth Spirit is Decarabia. He appeareth in the Form of a Star in a Pentacle, K, at first, but after, at the command of the Exorcist, he putteth on the Image of a Man. His Office is to discover the Virtues of Birds and Precious Stones, and to make the Similitude of all kinds of Birds to fly before the Exorcist, siging and drinking as natural Birds do. He governeth 30 Legions of Spirits, being himself a Great Marquis. And this is his Seal, which is to be worn, etc."
+        "description": "The Sixty-ninth Spirit is Decarabia. He appeareth in the Form of a Star in a Pentacle, at first, but after, at the command of the Exorcist, he putteth on the Image of a Man. His Office is to discover the Virtues of Birds and Precious Stones, and to make the Similitude of all kinds of Birds to fly before the Exorcist, siging and drinking as natural Birds do. He governeth 30 Legions of Spirits, being himself a Great Marquis. And this is his Seal, which is to be worn, etc."
     },
     "70": {
         "id": 70,
@@ -1744,7 +1744,7 @@
             "1": "Sear",
             "2": "Seir"
         },
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/seere.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/seere.png",
         "enn": "Jeden et Renich Seere tu tasa",
         "rank": {
             "rank-name": "Prince",
@@ -1768,7 +1768,7 @@
         "id": 71,
         "name": "Dantalion",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/dantalion.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/dantalion.png",
         "enn": "Avage ayer Dantalion on ca",
         "rank": {
             "rank-name": "Duke",
@@ -1792,7 +1792,7 @@
         "id": 72,
         "name": "Andromalius",
         "alt-names": {},
-        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/sigils/andromalius.png",
+        "sigil": "https://github.com/LilianCodes/ars-goetia-api/blob/personal/api/sigils/andromalius.png",
         "enn": "Tasa fubin Andromalius on ca",
         "rank": {
             "rank-name": "Earl",
