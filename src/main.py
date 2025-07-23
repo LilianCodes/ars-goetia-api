@@ -22,7 +22,22 @@ goetia = load_goetia()
 
 @app.get("/", summary="The root of the API.")
 def root():
-    return {"message": "Welcome to the Goetia API"}
+    return {
+        "introduction": "Welcome to the Ars Goetia REST API!",
+        "message-one": "This API holds all information on the 72 Goetic Demons.",
+        "message-two": "AGAPI was created from a love of occult topics and there was no other APIs with this information freely available. So I figured why not?",
+        "message-three": "Feel free to peruse endpoints at your leisure!"
+        "links": {
+            "sources": {
+                "ars-goetia": "https://ia802801.us.archive.org/34/items/ac_goetia/ac_goetia.pdf",
+                "demons-and-demonolatry": "https://demonsanddemonolatry.com/"
+            },
+            "personal": {
+                "github": "https://github.com/LilianCodes/ars-goetia-api/",
+                "ko-fi": "https://ko-fi.com/wispydealings"
+            }
+        }
+    }
 
 @app.get("/goetia", summary="Get all Goetics.")
 def get_all_goetia():
