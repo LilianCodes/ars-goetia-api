@@ -36,7 +36,7 @@ Local setup is as simple as:
 
 ```
 git clone https://github.com/LilianCodes/ars-goetia-api.git
-cd ars-goetia-api
+cd ars-goetia-api/src
 pip install -r requirements.txt
 uvicorn main:app --reload
 Open http://localhost:8000/docs to interact with the API.
