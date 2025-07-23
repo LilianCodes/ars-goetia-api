@@ -34,11 +34,13 @@ The Ars Goetia API serves JSON data about the 72 Goetic Demons. This includes: N
 # **Local Setup**
 Local setup is as simple as:
 
-- git clone https://github.com/LilianCodes/ars-goetia-api.git
-- cd ars-goetia-api
-- pip install -r requirements.txt
-- uvicorn main:app --reload
-- Open http://localhost:8000/docs to interact with the API.
+```
+git clone https://github.com/LilianCodes/ars-goetia-api.git
+cd ars-goetia-api
+pip install -r requirements.txt
+uvicorn main:app --reload
+Open http://localhost:8000/docs to interact with the API.
+```
 
 Or you could alternatively download from the Code dropdown, install requirements and start the API.
 
