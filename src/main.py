@@ -1,9 +1,18 @@
 from fastapi import FastAPI
 from pathlib import Path
+from fastapi.middleware.cors import CORSMiddleware
 import json
 import random
 
 app = FastAPI()
+app.add_middleware(
+    CORSMiddleware,
+    allow_origin=['*'],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"]
+)
+
 DATA_PATH = Path("goetia.json")
 
 
@@ -19,6 +28,8 @@ def error_handling(message: str, q: str = ""):
     }
 
 goetia = load_goetia()
+
+
 
 @app.get("/", summary="The root of the API.")
 def root():
