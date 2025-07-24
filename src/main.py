@@ -1,5 +1,6 @@
 from fastapi import FastAPI
 from pathlib import Path
+from fastapi.staticfiles import StaticFiles
 from fastapi.middleware.cors import CORSMiddleware
 import json
 import random
@@ -12,6 +13,7 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"]
 )
+app.mount("/sigils", StaticFiles(directory="static/sigils", name="sigils"))
 
 DATA_PATH = Path("goetia.json")
 
