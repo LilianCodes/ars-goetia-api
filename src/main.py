@@ -13,7 +13,7 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"]
 )
-app.mount("/sigils", StaticFiles(directory="static/sigils", name="sigils"))
+app.mount("/sigils", StaticFiles(directory="/sigils"))
 
 DATA_PATH = Path("goetia.json")
 
